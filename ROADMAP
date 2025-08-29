@@ -1,0 +1,25 @@
+
+Phased Roadmap & Deliverables
+
+Phase 0 (2–3 weeks): Foundations
+WebAuthn key flow + delegated session key.
+Connect to public relay + Buildbook relay; publish/subscribe basic events.
+Deliverables: key mgmt UI, relay connectivity, event publisher, simple feed.
+
+Phase 1 (3–5 weeks): Project & Contribution Core
+Implement project.declare, project.issue, discussion.comment.
+GitHub inbound bridge for push, pull_request, issue_comment → contrib.attest/discussion.
+Basic indexer + project discovery & profile pages.
+Deliverables: project pages, issues, GH → Nostr mapping, search MVP.
+
+Phase 2 (4–6 weeks): Reviews, Reputation, Verification
+contrib.review, reputation.endorse, .edu/professional verification flow.
+Recruiter view v1 + Dynamic Resume builder (protocol-derived).
+Moderation controls: blocklists, rate limits, reputation thresholds.
+Deliverables: verified profiles, resume PDFs, recruiter filters.
+
+Phase 3 (ongoing): Hardening & Openness
+Outbound GitHub bot; org policies; encrypted DM for collab.
+Performance scaling (indexer, relay), backup/restore & export tools.
+Community governance (lists, trusted reviewers).
+Deliverables: stable API, docs, export/import, public spec site.
