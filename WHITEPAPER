@@ -6,8 +6,8 @@ Today, GitHub controls the presentation layer, the distribution layer, and now t
 
 The Principle
 A true public square for developers cannot exist on corporate infrastructure. To preserve freedom, trust, and innovation, the foundation must be decentralized, portable, and owned by no one.
-The Solution
 
+The Solution
 We are building that foundation on Nostr, an open framework for identity, messaging, and verifiable contributions. By separating the protocol layer from presentation and distribution, we:
 Decentralize ownership and reduce dependency on any single platform
 Preserve identity portability across communities and tools
