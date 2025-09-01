@@ -17,6 +17,7 @@ Empower developers to build, share, and collaborate on their own terms
 
 One of the gaps in today's developer ecosystem is that proof-of-work is siloed. GitHub shows commits, but it doesn't travel with you. 
 LinkedIn shows a résumé, but not your code. Both are centralized, both controlled by corporations.
+
 Identities are sovereign (NIP-05) → your professional presence isn't tied to a corporate platform.
 Resumés are portable (NIP-33) → your contributions update in real time and can be displayed anywhere.
 Work is verifiable (custom attestation events) → signed records of your commits, reviews, and collaborations.
