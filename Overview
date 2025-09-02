@@ -1,0 +1,11 @@
+
+Buildbook’s protocol separates identity, collaboration events, and attestations (protocol) from UI, discovery, and
+analytics (product). Nostr is the underlying framework for identity (pubkeys), signed events, and relay-based
+transport. Code remains in git; protocol events carry metadata, discussions, reviews, and verifiable contribution
+proofs.
+
+Core Principles:
+• Decentralization: no single entity owns the collaboration substrate.
+• Portability: developer identity, contributions, and reputation move across clients.
+• Verifiability: signed events + attestations link people ↔ work (commits, reviews).
+• Interoperability: bridges for GitHub/GitLab/Codeberg preserve existing workflows.
