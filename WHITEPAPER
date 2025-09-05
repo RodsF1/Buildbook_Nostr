@@ -10,34 +10,44 @@ A true public square for developers cannot exist on corporate infrastructure. To
 
 The Solution
 We are building that foundation on Nostr, an open framework for identity, messaging, and verifiable contributions. By separating the protocol layer from presentation and distribution, we:
-Decentralize ownership and reduce dependency on any single platform
-Preserve identity portability across communities and tools
-Strengthen trust in the FOSS ecosystem through verifiable contributions
-Empower developers to build, share, and collaborate on their own terms
+
+1. Decentralize ownership and reduce dependency on any single platform
+2. Preserve identity portability across communities and tools
+3. Strengthen trust in the FOSS ecosystem through verifiable contributions
+4. Empower developers to build, share, and collaborate on their own terms
 
 One of the gaps in today's developer ecosystem is that proof-of-work is siloed. GitHub shows commits, but it doesn't travel with you. 
 LinkedIn shows a résumé, but not your code. Both are centralized, both controlled by corporations.
 
-Identities are sovereign (NIP-05) → your professional presence isn't tied to a corporate platform.
-Resumés are portable (NIP-33) → your contributions update in real time and can be displayed anywhere.
-Work is verifiable (custom attestation events) → signed records of your commits, reviews, and collaborations.
-Recognition is open → endorsements and reviews come from peers, not gatekeepers.
+A. Identities are sovereign (NIP-05) → your professional presence isn't tied to a corporate platform.
+B. Resumés are portable (NIP-33) → your contributions update in real time and can be displayed anywhere.
+C. Work is verifiable (custom attestation events) → signed records of your commits, reviews, and collaborations.
+D. Recognition is open → endorsements and reviews come from peers, not gatekeepers.
 
 The goal is to make proof-of-work censorship-resistant, portable, and owned by the developer, aligned with the Nostr ethos.
 
 The Community
 Buildbook is the living network on top of this protocol. It's where technical people already go to:
-Discover meaningful projects
-Share ideas and receive feedback
-Expand their networks beyond the school or workplace
+- Discover meaningful projects
+- Share ideas and receive feedback
+- Expand their networks beyond school or workplace 
 
 Unlike social platforms built for engagement metrics or surveillance, Buildbook is a social infrastructure for developers, without a security apparatus attached.
+We provide developers the opportunity to build things without worrying about corporate moonlighting or other tactics used to supress freedom of expression indirectly. 
 
-The Future
+Building The Company of the Future
 The next decade of software requires more than platforms. It requires a protocol-first public square, powered by Nostr and grown by communities like Buildbook.
-Together, we are reshaping how developers meet, collaborate, and create, building a future no single entity can own.
+Together, we are reshaping how developers meet, collaborate, and create, building a future no single entity can own. 
+The future will not be taking Microsoft tools with it if the choice is presented. GitHub is now a Microsoft tool not designed to empower the FOSS/developer community. 
 
-Author: Rod Bahmanyari, Founder, Buildbook Software, Inc.
+----
+
+Author: Rod Bahmanyari, Founder, Buildbook Software, Inc. 
+
+About 
+2 years in Healthcare NLP/ML at the largest IPA in the Bay Area. 
+2 years as a founder building IoT-integrated indoor geofencing software to address retail's shelf engineering/product placement cost optimization needs. 
+BSc, Mathematical Finance, CSU Long Beach. 
 
 "Buildbook is like if Discord and GitHub had a baby, and the baby became a better person than it's parents" 
 - Ayushman Anant (user), University of Maryland (UMD)
